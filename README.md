@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋!,I'm Bharath!<br>I'm a passionate Freelancer, Full Stack Developer, AI Engineer, and Data Analyst with a love for building impactful digital solutions. I enjoy transforming ideas into reality using code, solving complex problems, and constantly learning new technologies.
 
+## 🚀 My Portfolio
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-71498.web.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_bharath___07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharath-b-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bharathdws98424@gmail.com) 
